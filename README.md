@@ -1,7 +1,7 @@
 # 🚗 FiveM Vehicle Interaction Menu
 
 This is a simple and customizable **vehicle interaction menu** for FiveM using **lib** (ox_lib).  
-Players can control their vehicle's **engine, seats, doors, windows, and neons** through a clean UI.
+Players can control their vehicle's **engine, seats, doors, windows, and neons** through ox_lib
 
 ---
 ![image](https://github.com/user-attachments/assets/7e60c033-adea-4eb3-bac9-c2c6445fd2aa)
